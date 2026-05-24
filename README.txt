@@ -23,3 +23,7 @@ Como esta é uma classe utilitária, a melhor forma de vê-la em funcionamento �
    ```bash
    git clone https://github.com/joaogula11-ctrl/atividade-fila-python.git
    cd atividade-fila-python
+
+2. Execute o arquivo de testes diretamente no terminal:
+   ```bash
+   python test_queue.py
