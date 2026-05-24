@@ -21,5 +21,5 @@ Como esta é uma classe utilitária, a melhor forma de vê-la em funcionamento �
 
 1. Clone o repositório para a sua máquina:
    ```bash
-   git clone [SEU_LINK_DO_GITHUB]
+   git clone https://github.com/joaogula11-ctrl/atividade-fila-python.git
    cd [NOME_DA_PASTA_DO_REPOSITORIO]
