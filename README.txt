@@ -2,7 +2,7 @@
 
 Este repositório contém a implementação de uma Fila (First-In, First-Out) em Python, construída a partir do zero utilizando listas padrão da linguagem. A atividade foca no uso correto de encapsulamento, tratamento de exceções, e testes unitários.
 
-**Link para este repositório:** [COLE SEU LINK DO GITHUB AQUI]
+Link para este repositório: https://github.com/joaogula11-ctrl/atividade-fila-python
 
 ## Funcionalidades Implementadas
 * `enqueue(item)`: Adiciona um elemento ao final da fila.
@@ -15,11 +15,11 @@ Este repositório contém a implementação de uma Fila (First-In, First-Out) em
 
 ## Como Executar o Código
 
-Pré-requisito: É necessário ter o **Python 3.x** instalado na sua máquina.
+Pré-requisito: É necessário ter o Python 3.x instalado na sua máquina.
 
 Como esta é uma classe utilitária, a melhor forma de vê-la em funcionamento é executando a suíte de testes.
 
 1. Clone o repositório para a sua máquina:
    ```bash
    git clone https://github.com/joaogula11-ctrl/atividade-fila-python.git
-   cd [NOME_DA_PASTA_DO_REPOSITORIO]
+   cd atividade-fila-python
